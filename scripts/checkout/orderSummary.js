@@ -140,4 +140,4 @@ export function renderOrderSummary() {
     });
 }
 
-renderOrderSummary();
+export default renderOrderSummary;
